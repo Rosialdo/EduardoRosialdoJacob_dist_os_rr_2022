@@ -1,6 +1,6 @@
-# Deep First Search in Graphs using Multithreading
+# Análise da distrito Tails Linux
 
-Project made by [Eduardo Henrique](https://github.com/ed-henrique) and [Guilherme Lirioberto](https://github.com/Liriogui).
+Projeto relalizado por [Eduardo Henrique](https://github.com/ed-henrique), [Rosialdo](https://github.com/Rosialdo) e [Venicius](https://github.com/veniciusjacob).
 
 ---
 
