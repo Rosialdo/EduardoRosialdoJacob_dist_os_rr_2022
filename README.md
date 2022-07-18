@@ -23,6 +23,6 @@ Things we have done:
 
 ## Presentation
 
-Slide da apresentação está disponivel em  [Canva] (https://www.canva.com/design/DAFGrFKgvS8/cXDB2GkNoSYG-Qt3P-yIwQ/view)
+Slide da apresentação disponivel no [Canva](https://www.canva.com/design/DAFGrFKgvS8/cXDB2GkNoSYG-Qt3P-yIwQ/view)
 ---
 
