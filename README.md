@@ -1,6 +1,6 @@
 # Análise da distrito Tails Linux
 
-Projeto relalizado por [Eduardo Henrique](https://github.com/ed-henrique), [Rosialdo](https://github.com/Rosialdo) e [Venicius](https://github.com/veniciusjacob).
+Projeto realizado por [Eduardo Henrique](https://github.com/ed-henrique), [Rosialdo](https://github.com/Rosialdo) e [Venicius](https://github.com/veniciusjacob).
 
 ---
 
