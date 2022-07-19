@@ -5,6 +5,7 @@ Projeto realizado por [Eduardo Henrique](https://github.com/ed-henrique), [Rosia
 ## Apresentação
 
 Slide da apresentação disponivel no [Canva](https://www.canva.com/design/DAFGrFKgvS8/cXDB2GkNoSYG-Qt3P-yIwQ/view).
+
 Relatório disponível no [Docs](https://docs.google.com/document/d/12_pIGiezVo7xWo0PL4H1v5CtRWyYxFe5C_qVpHmO03E/edit?usp=sharing).
 
 ## Demo de instalação da distro
